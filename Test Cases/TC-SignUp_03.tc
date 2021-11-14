@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign Up unsuccesful (invalid email)</description>
+   <name>TC-SignUp_03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af517d9c-496f-4331-bf4a-a7ca76124977</testCaseGuid>
+</TestCaseEntity>

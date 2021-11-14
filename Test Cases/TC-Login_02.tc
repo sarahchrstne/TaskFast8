@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login unsuccesful with unregistered email</description>
+   <name>TC-Login_02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cf9357f-9d38-412a-8408-1a7ec5451885</testCaseGuid>
+</TestCaseEntity>

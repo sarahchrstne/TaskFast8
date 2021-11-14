@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign Up unsuccessful with invalid password</description>
+   <name>TC-SignUp_05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a28d9bde-825d-44a0-ba4d-3d17fa34173c</testCaseGuid>
+</TestCaseEntity>

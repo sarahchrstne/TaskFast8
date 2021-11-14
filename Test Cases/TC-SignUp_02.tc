@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign Up unsuccessful (empty field)</description>
+   <name>TC-SignUp_02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a739c6b4-8b0a-4e73-bfaf-515a23971786</testCaseGuid>
+</TestCaseEntity>
